@@ -3,12 +3,12 @@ project:
   
   authors:
     - id: student
-      name: Freek Pols
+      name: Costya van der Horst
       affiliations:
         - tud
 
   contributors:
-    - id: supervisor-1
+    - id: Freek Pols
       name: prof. dr. John Doe
       affiliations:
         - tud
